@@ -1,11 +1,11 @@
 # Capstone Project: Penetration Testing Plan & Pitch
 
-## 📜 Project Overview
+##  Project Overview
 This repository serves as the central planning hub for our Capstone Project, a comprehensive simulated penetration test. It houses the **Project Pitch**, which defines the business problem, scope, methodology, and success metrics for our assessment of a hypothetical client.
 
 Our team is committed to executing a professional-grade security assessment that adheres to industry standards, ethical guidelines, and strict timelines. This document outlines our strategic approach before technical execution begins.
 
-## 🎯 Business Problem Scenario
+##  Business Problem Scenario
 We are simulating a penetration test for a mid-sized organization facing critical security challenges (e.g., potential data breaches, unpatched legacy systems, or compliance failures). 
 
 **Key Objectives:**
@@ -16,7 +16,7 @@ We are simulating a penetration test for a mid-sized organization facing critica
 
 *Note: Specific client details and scope are defined in the [Project Pitch Document](./Capstone_Project_Pitch.pdf).*
 
-## 🛡️ Methodology & Problem-Solving Process
+##  Methodology & Problem-Solving Process
 Our group adheres to the **Penetration Testing Execution Standard (PTES)** and **NIST SP 800-115** guidelines. Our process is structured into the following phases:
 
 1.  **Pre-Engagement & Scoping:** Defining Rules of Engagement (ROE), authorized targets, and emergency contacts.
@@ -27,7 +27,7 @@ Our group adheres to the **Penetration Testing Execution Standard (PTES)** and *
 6.  **Reporting & Remediation:** Documenting findings with clear evidence and providing step-by-step fix instructions.
 7.  **Cleanup & Review:** Ensuring all test artifacts are removed and conducting a final peer review.
 
-## 📅 Timeline and Scope
+##  Timeline and Scope
 ### Scope of Work
 - **In-Scope:** Specific IP ranges, web applications, and social engineering simulations as defined in the ROE.
 - **Out-of-Scope:** Physical security testing, Denial of Service (DoS) attacks, and third-party systems not owned by the client.
@@ -42,7 +42,7 @@ We operate on a strict 6-week timeline with defined milestones:
 
 *Detailed milestones and role assignments are available in the [Project Pitch Document](./Capstone_Project_Pitch.pdf).*
 
-## 🤝 Team Roles & Responsibilities
+##  Team Roles & Responsibilities
 Our group operates with clear accountability structures:
 - **Project Lead:** Oversees timeline, communication, and final consolidation.
 - **Lead Researcher:** Manages OSINT, reconnaissance, and threat modeling.
@@ -51,7 +51,7 @@ Our group operates with clear accountability structures:
 
 *All team members collaborate on review, cleanup, and ethical compliance.*
 
-## ✅ Deliverable Quality and Success Metrics
+##  Deliverable Quality and Success Metrics
 We define success by the following metrics:
 - **Comprehensive Coverage:** 100% of the agreed scope is tested and documented.
 - **Accuracy:** All reported vulnerabilities are verified and reproducible (zero false positives).
@@ -64,20 +64,20 @@ We define success by the following metrics:
 - **Standardization:** We use CVSS v3.1 for all risk ratings to ensure consistency.
 - **Ethical Commitment:** We adhere strictly to the **EC-Council Code of Ethics** and all legal requirements.
 
-## 📂 Repository Contents
+##  Repository Contents
 - `Capstone_Project_Pitch.pdf`: The official project pitch document submitted for approval.
 - `Rules_of_Engagement.md`: Detailed ROE and authorization documents (simulated).
 - `Timeline.md`: Detailed project schedule and milestone tracker.
 - `Templates/`: Report templates and formatting guides.
 
-## ⚖️ Legal & Ethical Disclaimer
+##  Legal & Ethical Disclaimer
 This project is a **simulation** for educational purposes. 
 - All targets are either owned by the team, explicitly authorized for testing, or part of a controlled lab environment.
 - No real-world harm was caused during this assessment.
 - All findings are confidential and used solely for this academic project.
 - This repository does not contain any real client data or sensitive information.
 
-## 📜 License
+##  License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
