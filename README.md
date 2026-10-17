@@ -80,4 +80,4 @@ This project is a **simulation** for educational purposes.
 
 
 ---
-*Developed by [Insert Group Name] for the Capstone Penetration Testing Course.*
+
