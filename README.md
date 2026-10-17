@@ -77,8 +77,7 @@ This project is a **simulation** for educational purposes.
 - All findings are confidential and used solely for this academic project.
 - This repository does not contain any real client data or sensitive information.
 
-##  License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 ---
 *Developed by [Insert Group Name] for the Capstone Penetration Testing Course.*
