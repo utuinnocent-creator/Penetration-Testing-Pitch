@@ -14,7 +14,7 @@ We are simulating a penetration test for a mid-sized organization facing critica
 - Provide a prioritized, actionable roadmap for remediation.
 - Demonstrate the potential business impact of identified risks (financial, reputational, operational).
 
-*Note: Specific client details and scope are defined in the [Project Pitch Document](./Capstone_Project_Pitch.pdf).*
+
 
 ##  Methodology & Problem-Solving Process
 Our group adheres to the **Penetration Testing Execution Standard (PTES)** and **NIST SP 800-115** guidelines. Our process is structured into the following phases:
@@ -40,7 +40,6 @@ We operate on a strict 6-week timeline with defined milestones:
 - **Week 5:** Report Drafting and Remediation Strategy.
 - **Week 6:** Peer Review, Final Polish, and Submission.
 
-*Detailed milestones and role assignments are available in the [Project Pitch Document](./Capstone_Project_Pitch.pdf).*
 
 ##  Team Roles & Responsibilities
 Our group operates with clear accountability structures:
